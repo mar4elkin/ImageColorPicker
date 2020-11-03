@@ -5,3 +5,6 @@
 ```
 pip install ImageColorPicker
 ```
+
+### pip
+https://pypi.org/project/ImageColorPicker/
